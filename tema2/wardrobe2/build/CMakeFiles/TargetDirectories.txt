@@ -1,0 +1,3 @@
+/mnt/c/an4/PAOO/wardrobe/build/CMakeFiles/wardrobe.dir
+/mnt/c/an4/PAOO/wardrobe/build/CMakeFiles/edit_cache.dir
+/mnt/c/an4/PAOO/wardrobe/build/CMakeFiles/rebuild_cache.dir

@@ -24,24 +24,24 @@ int main() {
     Wardrobe w3 = makeWardrobe(); 
     w3.print();
 
-    // =======================
+  
     // ITEM 10, 11, 12 DEMO
-    // =======================
+   
 
     cout << "\n== Copy assignment (Item 10,11,12) ==\n";
     Wardrobe w4;
     w4.add(ClothingItem("Sapca", "L", 39.99));
 
-    w4 = w1;    // triggers operator=
+    w4 = w1;    
     w4.print();
 
     cout << "\n== Self assignment test (Item 11) ==\n";
-    w4 = w4;    // should not crash, should not delete itself
+    w4 = w4;    
     cout << "Self assignment OK\n";
 
     cout << "\n== Chained assignment test (Item 10) ==\n";
     Wardrobe w5, w6;
-    w5 = w6 = w1;   // operator= returns *this → allows chaining
+    w5 = w6 = w1;   
     w5.print();
 
     cout << "\n== End ==\n";

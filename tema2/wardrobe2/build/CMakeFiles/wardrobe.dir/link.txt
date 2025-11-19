@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/wardrobe.dir/src/main.cpp.o CMakeFiles/wardrobe.dir/src/ClothingItem.cpp.o CMakeFiles/wardrobe.dir/src/Wardrobe.cpp.o -o /mnt/c/an4/PAOO/wardrobe/bin/wardrobe 

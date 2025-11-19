@@ -13,9 +13,9 @@ Wardrobe::~Wardrobe() {
     delete[] items;
 }
 
-// =============================================================
+
 // Copy constructor (Item 12: Copy all parts of the object)
-// =============================================================
+
 Wardrobe::Wardrobe(const Wardrobe& other)
     : items(new ClothingItem[other.capacity]),
       size(other.size),
@@ -26,9 +26,8 @@ Wardrobe::Wardrobe(const Wardrobe& other)
         items[i] = other.items[i];
 }
 
-// =============================================================
 // COPY ASSIGNMENT OPERATOR (Item 10, 11, 12)
-// =============================================================
+
 Wardrobe& Wardrobe::operator=(const Wardrobe& other) {
 
     cout << "[Wardrobe copy=] Copy assignment\n";
@@ -52,9 +51,8 @@ Wardrobe& Wardrobe::operator=(const Wardrobe& other) {
     return *this;
 }
 
-// =============================================================
 // MOVE CONSTRUCTOR
-// =============================================================
+
 Wardrobe::Wardrobe(Wardrobe&& other) noexcept
     : items(other.items),
       size(other.size),
@@ -67,9 +65,8 @@ Wardrobe::Wardrobe(Wardrobe&& other) noexcept
     other.capacity = 0;
 }
 
-// =============================================================
 // MOVE ASSIGNMENT
-// =============================================================
+
 Wardrobe& Wardrobe::operator=(Wardrobe&& other) noexcept {
 
     cout << "[Wardrobe move=] Move assignment\n";
