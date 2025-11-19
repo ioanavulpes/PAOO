@@ -6,7 +6,6 @@ class Wardrobe {
 public:
     Wardrobe(size_t initialCapacity = 2);
 
-    // Rule of 5
     ~Wardrobe();
     Wardrobe(const Wardrobe& other);             // copy constructor
     Wardrobe& operator=(const Wardrobe& other);  // copy assignment (Item 10,11,12)
