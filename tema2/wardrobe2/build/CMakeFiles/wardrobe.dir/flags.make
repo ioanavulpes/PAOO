@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/mnt/c/an4/PAOO/wardrobe/include
+CXX_INCLUDES = -I/mnt/c/an4/PAOO/teme/PAOO/tema2/wardrobe2/include
 
 CXX_FLAGS = -std=c++17
 

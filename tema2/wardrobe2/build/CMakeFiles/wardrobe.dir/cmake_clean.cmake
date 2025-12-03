@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/mnt/c/an4/PAOO/wardrobe/bin/wardrobe"
-  "/mnt/c/an4/PAOO/wardrobe/bin/wardrobe.pdb"
+  "/mnt/c/an4/PAOO/teme/PAOO/tema2/wardrobe2/bin/wardrobe"
+  "/mnt/c/an4/PAOO/teme/PAOO/tema2/wardrobe2/bin/wardrobe.pdb"
   "CMakeFiles/wardrobe.dir/src/ClothingItem.cpp.o"
   "CMakeFiles/wardrobe.dir/src/ClothingItem.cpp.o.d"
   "CMakeFiles/wardrobe.dir/src/Wardrobe.cpp.o"

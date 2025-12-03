@@ -1,4 +1,4 @@
-# Install script for directory: /mnt/c/an4/PAOO/wardrobe
+# Install script for directory: /mnt/c/an4/PAOO/teme/PAOO/tema2/wardrobe2
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/mnt/c/an4/PAOO/wardrobe/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/mnt/c/an4/PAOO/teme/PAOO/tema2/wardrobe2/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

@@ -1,7 +1,8 @@
 CMakeFiles/wardrobe.dir/src/main.cpp.o: \
- /mnt/c/an4/PAOO/wardrobe/src/main.cpp /usr/include/stdc-predef.h \
- /mnt/c/an4/PAOO/wardrobe/include/Wardrobe.hpp \
- /mnt/c/an4/PAOO/wardrobe/include/ClothingItem.hpp \
+ /mnt/c/an4/PAOO/teme/PAOO/tema2/wardrobe2/src/main.cpp \
+ /usr/include/stdc-predef.h \
+ /mnt/c/an4/PAOO/teme/PAOO/tema2/wardrobe2/include/Wardrobe.hpp \
+ /mnt/c/an4/PAOO/teme/PAOO/tema2/wardrobe2/include/ClothingItem.hpp \
  /usr/include/c++/13/string /usr/include/c++/13/bits/requires_hosted.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/os_defines.h \

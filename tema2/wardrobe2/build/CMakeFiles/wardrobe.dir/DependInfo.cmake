@@ -8,9 +8,9 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/mnt/c/an4/PAOO/wardrobe/src/ClothingItem.cpp" "CMakeFiles/wardrobe.dir/src/ClothingItem.cpp.o" "gcc" "CMakeFiles/wardrobe.dir/src/ClothingItem.cpp.o.d"
-  "/mnt/c/an4/PAOO/wardrobe/src/Wardrobe.cpp" "CMakeFiles/wardrobe.dir/src/Wardrobe.cpp.o" "gcc" "CMakeFiles/wardrobe.dir/src/Wardrobe.cpp.o.d"
-  "/mnt/c/an4/PAOO/wardrobe/src/main.cpp" "CMakeFiles/wardrobe.dir/src/main.cpp.o" "gcc" "CMakeFiles/wardrobe.dir/src/main.cpp.o.d"
+  "/mnt/c/an4/PAOO/teme/PAOO/tema2/wardrobe2/src/ClothingItem.cpp" "CMakeFiles/wardrobe.dir/src/ClothingItem.cpp.o" "gcc" "CMakeFiles/wardrobe.dir/src/ClothingItem.cpp.o.d"
+  "/mnt/c/an4/PAOO/teme/PAOO/tema2/wardrobe2/src/Wardrobe.cpp" "CMakeFiles/wardrobe.dir/src/Wardrobe.cpp.o" "gcc" "CMakeFiles/wardrobe.dir/src/Wardrobe.cpp.o.d"
+  "/mnt/c/an4/PAOO/teme/PAOO/tema2/wardrobe2/src/main.cpp" "CMakeFiles/wardrobe.dir/src/main.cpp.o" "gcc" "CMakeFiles/wardrobe.dir/src/main.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.
