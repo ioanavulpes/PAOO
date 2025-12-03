@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/resource_manager.dir/src/main.cpp.o CMakeFiles/resource_manager.dir/src/Investment.cpp.o CMakeFiles/resource_manager.dir/src/FileDescriptor.cpp.o CMakeFiles/resource_manager.dir/src/Lock.cpp.o CMakeFiles/resource_manager.dir/src/ThreadedFileOps.cpp.o -o /mnt/c/an4/PAOO/teme/PAOO/tema3/bin/resource_manager 
